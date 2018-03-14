@@ -1,0 +1,144 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\AndroidDevelopment\MyCurrencyConvter\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from F:\AndroidDevelopment\MyCurrencyConvter\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from F:\AndroidDevelopment\MyCurrencyConvter\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from F:\AndroidDevelopment\MyCurrencyConvter\app\src\main\AndroidManifest.xml:2:1-30:12
+MERGED from [com.jakewharton.rxbinding2:rxbinding-support-v4:2.1.1] C:\Users\Ben\.gradle\caches\transforms-1\files-1.1\rxbinding-support-v4-2.1.1.aar\c0678b4cee5e180854a299368689fff3\AndroidManifest.xml:2:1-8:12
+MERGED from [com.jakewharton.rxbinding2:rxbinding-appcompat-v7:2.1.1] C:\Users\Ben\.gradle\caches\transforms-1\files-1.1\rxbinding-appcompat-v7-2.1.1.aar\70227e715b3f2db85de07a2e521aa219\AndroidManifest.xml:2:1-8:12
+MERGED from [com.jakewharton.rxbinding2:rxbinding-design:2.1.1] C:\Users\Ben\.gradle\caches\transforms-1\files-1.1\rxbinding-design-2.1.1.aar\1430127c40d31177e288c7c1cb6b109e\AndroidManifest.xml:2:1-8:12
+MERGED from [com.jakewharton.rxbinding2:rxbinding:2.1.1] C:\Users\Ben\.gradle\caches\transforms-1\files-1.1\rxbinding-2.1.1.aar\e40c761b8731426b79d23a1c2c21b53e\AndroidManifest.xml:2:1-8:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] C:\Users\Ben\.gradle\caches\transforms-1\files-1.1\rxandroid-2.0.1.aar\a3ee4126f02e71e0f8e5dcdc8141109e\AndroidManifest.xml:15:1-21:12
+MERGED from [com.android.support:design:27.0.2] C:\Users\Ben\.gradle\caches\transforms-1\files-1.1\design-27.0.2.aar\511b2c1dc1a6fedc4a9ff7f72e2ae8c1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\Ben\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\888efdd595345829ca48b60ce8ee316d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Ben\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\4367c22ed7b78bf01f96d04183ab6795\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\Ben\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\4317deefb7e0cfb1b6f9c97362249318\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.0.2] C:\Users\Ben\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.2.aar\2cd7a9cda838bdda5e2a39206a275c30\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\Ben\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\1cbcb47ea02f5fe8affb2a64e85618cb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\Ben\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\f7a2277edda8cdc9866b455824e40a20\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\Ben\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\12ec2d50982f85d0134d431d8ed8053f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.0.2] C:\Users\Ben\.gradle\caches\transforms-1\files-1.1\transition-27.0.2.aar\9becd23f5d0ecc3c5803888f2d4a4c10\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\Ben\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\e8fd7392ae51d8cc0580ddd7785717e0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\Ben\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\da34f353ae9cc98313a32081a6f635d2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\Ben\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\cb03804ba68d59f098d025e230cc1e40\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\Ben\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\97c933509a721aee5f04167704c156e8\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\Ben\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\844ecce94a8ca9363993917f6c444a7e\AndroidManifest.xml:17:1-24:12
+INJECTED from F:\AndroidDevelopment\MyCurrencyConvter\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from F:\AndroidDevelopment\MyCurrencyConvter\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from F:\AndroidDevelopment\MyCurrencyConvter\app\src\main\AndroidManifest.xml:2:1-30:12
+	package
+		ADDED from F:\AndroidDevelopment\MyCurrencyConvter\app\src\main\AndroidManifest.xml:3:5-68
+		INJECTED from F:\AndroidDevelopment\MyCurrencyConvter\app\src\main\AndroidManifest.xml
+		INJECTED from F:\AndroidDevelopment\MyCurrencyConvter\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from F:\AndroidDevelopment\MyCurrencyConvter\app\src\main\AndroidManifest.xml
+		ADDED from F:\AndroidDevelopment\MyCurrencyConvter\app\src\main\AndroidManifest.xml:2:1-30:12
+		INJECTED from F:\AndroidDevelopment\MyCurrencyConvter\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from F:\AndroidDevelopment\MyCurrencyConvter\app\src\main\AndroidManifest.xml
+		ADDED from F:\AndroidDevelopment\MyCurrencyConvter\app\src\main\AndroidManifest.xml:2:1-30:12
+		INJECTED from F:\AndroidDevelopment\MyCurrencyConvter\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\AndroidDevelopment\MyCurrencyConvter\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from F:\AndroidDevelopment\MyCurrencyConvter\app\src\main\AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from F:\AndroidDevelopment\MyCurrencyConvter\app\src\main\AndroidManifest.xml:4:22-64
+application
+ADDED from F:\AndroidDevelopment\MyCurrencyConvter\app\src\main\AndroidManifest.xml:6:5-28:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Ben\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\4367c22ed7b78bf01f96d04183ab6795\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Ben\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\4367c22ed7b78bf01f96d04183ab6795\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from F:\AndroidDevelopment\MyCurrencyConvter\app\src\main\AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from F:\AndroidDevelopment\MyCurrencyConvter\app\src\main\AndroidManifest.xml:9:9-41
+	android:roundIcon
+		ADDED from F:\AndroidDevelopment\MyCurrencyConvter\app\src\main\AndroidManifest.xml:10:9-54
+	android:icon
+		ADDED from F:\AndroidDevelopment\MyCurrencyConvter\app\src\main\AndroidManifest.xml:8:9-43
+	android:allowBackup
+		ADDED from F:\AndroidDevelopment\MyCurrencyConvter\app\src\main\AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from F:\AndroidDevelopment\MyCurrencyConvter\app\src\main\AndroidManifest.xml:12:9-40
+activity#mycurrencyconvter.digitaldigets.com.mycurrencyconvter.MainActivity
+ADDED from F:\AndroidDevelopment\MyCurrencyConvter\app\src\main\AndroidManifest.xml:13:9-19:20
+	android:name
+		ADDED from F:\AndroidDevelopment\MyCurrencyConvter\app\src\main\AndroidManifest.xml:13:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from F:\AndroidDevelopment\MyCurrencyConvter\app\src\main\AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from F:\AndroidDevelopment\MyCurrencyConvter\app\src\main\AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from F:\AndroidDevelopment\MyCurrencyConvter\app\src\main\AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\AndroidDevelopment\MyCurrencyConvter\app\src\main\AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from F:\AndroidDevelopment\MyCurrencyConvter\app\src\main\AndroidManifest.xml:17:27-74
+receiver#mycurrencyconvter.digitaldigets.com.mycurrencyconvter.SimpleWidgetProvider
+ADDED from F:\AndroidDevelopment\MyCurrencyConvter\app\src\main\AndroidManifest.xml:21:9-27:20
+	android:name
+		ADDED from F:\AndroidDevelopment\MyCurrencyConvter\app\src\main\AndroidManifest.xml:21:19-54
+intent-filter#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from F:\AndroidDevelopment\MyCurrencyConvter\app\src\main\AndroidManifest.xml:22:13-24:29
+action#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from F:\AndroidDevelopment\MyCurrencyConvter\app\src\main\AndroidManifest.xml:23:17-84
+	android:name
+		ADDED from F:\AndroidDevelopment\MyCurrencyConvter\app\src\main\AndroidManifest.xml:23:25-81
+meta-data#android.appwidget.provider
+ADDED from F:\AndroidDevelopment\MyCurrencyConvter\app\src\main\AndroidManifest.xml:25:13-26:62
+	android:resource
+		ADDED from F:\AndroidDevelopment\MyCurrencyConvter\app\src\main\AndroidManifest.xml:26:17-59
+	android:name
+		ADDED from F:\AndroidDevelopment\MyCurrencyConvter\app\src\main\AndroidManifest.xml:25:24-65
+uses-sdk
+INJECTED from F:\AndroidDevelopment\MyCurrencyConvter\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from F:\AndroidDevelopment\MyCurrencyConvter\app\src\main\AndroidManifest.xml
+INJECTED from F:\AndroidDevelopment\MyCurrencyConvter\app\src\main\AndroidManifest.xml
+MERGED from [com.jakewharton.rxbinding2:rxbinding-support-v4:2.1.1] C:\Users\Ben\.gradle\caches\transforms-1\files-1.1\rxbinding-support-v4-2.1.1.aar\c0678b4cee5e180854a299368689fff3\AndroidManifest.xml:6:5-44
+MERGED from [com.jakewharton.rxbinding2:rxbinding-support-v4:2.1.1] C:\Users\Ben\.gradle\caches\transforms-1\files-1.1\rxbinding-support-v4-2.1.1.aar\c0678b4cee5e180854a299368689fff3\AndroidManifest.xml:6:5-44
+MERGED from [com.jakewharton.rxbinding2:rxbinding-appcompat-v7:2.1.1] C:\Users\Ben\.gradle\caches\transforms-1\files-1.1\rxbinding-appcompat-v7-2.1.1.aar\70227e715b3f2db85de07a2e521aa219\AndroidManifest.xml:6:5-44
+MERGED from [com.jakewharton.rxbinding2:rxbinding-appcompat-v7:2.1.1] C:\Users\Ben\.gradle\caches\transforms-1\files-1.1\rxbinding-appcompat-v7-2.1.1.aar\70227e715b3f2db85de07a2e521aa219\AndroidManifest.xml:6:5-44
+MERGED from [com.jakewharton.rxbinding2:rxbinding-design:2.1.1] C:\Users\Ben\.gradle\caches\transforms-1\files-1.1\rxbinding-design-2.1.1.aar\1430127c40d31177e288c7c1cb6b109e\AndroidManifest.xml:6:5-44
+MERGED from [com.jakewharton.rxbinding2:rxbinding-design:2.1.1] C:\Users\Ben\.gradle\caches\transforms-1\files-1.1\rxbinding-design-2.1.1.aar\1430127c40d31177e288c7c1cb6b109e\AndroidManifest.xml:6:5-44
+MERGED from [com.jakewharton.rxbinding2:rxbinding:2.1.1] C:\Users\Ben\.gradle\caches\transforms-1\files-1.1\rxbinding-2.1.1.aar\e40c761b8731426b79d23a1c2c21b53e\AndroidManifest.xml:6:5-44
+MERGED from [com.jakewharton.rxbinding2:rxbinding:2.1.1] C:\Users\Ben\.gradle\caches\transforms-1\files-1.1\rxbinding-2.1.1.aar\e40c761b8731426b79d23a1c2c21b53e\AndroidManifest.xml:6:5-44
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] C:\Users\Ben\.gradle\caches\transforms-1\files-1.1\rxandroid-2.0.1.aar\a3ee4126f02e71e0f8e5dcdc8141109e\AndroidManifest.xml:19:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] C:\Users\Ben\.gradle\caches\transforms-1\files-1.1\rxandroid-2.0.1.aar\a3ee4126f02e71e0f8e5dcdc8141109e\AndroidManifest.xml:19:5-43
+MERGED from [com.android.support:design:27.0.2] C:\Users\Ben\.gradle\caches\transforms-1\files-1.1\design-27.0.2.aar\511b2c1dc1a6fedc4a9ff7f72e2ae8c1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.0.2] C:\Users\Ben\.gradle\caches\transforms-1\files-1.1\design-27.0.2.aar\511b2c1dc1a6fedc4a9ff7f72e2ae8c1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\Ben\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\888efdd595345829ca48b60ce8ee316d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\Ben\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\888efdd595345829ca48b60ce8ee316d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Ben\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\4367c22ed7b78bf01f96d04183ab6795\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Ben\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\4367c22ed7b78bf01f96d04183ab6795\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\Ben\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\4317deefb7e0cfb1b6f9c97362249318\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\Ben\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\4317deefb7e0cfb1b6f9c97362249318\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] C:\Users\Ben\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.2.aar\2cd7a9cda838bdda5e2a39206a275c30\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] C:\Users\Ben\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.2.aar\2cd7a9cda838bdda5e2a39206a275c30\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\Ben\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\1cbcb47ea02f5fe8affb2a64e85618cb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\Ben\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\1cbcb47ea02f5fe8affb2a64e85618cb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\Ben\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\f7a2277edda8cdc9866b455824e40a20\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\Ben\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\f7a2277edda8cdc9866b455824e40a20\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\Ben\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\12ec2d50982f85d0134d431d8ed8053f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\Ben\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\12ec2d50982f85d0134d431d8ed8053f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.2] C:\Users\Ben\.gradle\caches\transforms-1\files-1.1\transition-27.0.2.aar\9becd23f5d0ecc3c5803888f2d4a4c10\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.2] C:\Users\Ben\.gradle\caches\transforms-1\files-1.1\transition-27.0.2.aar\9becd23f5d0ecc3c5803888f2d4a4c10\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\Ben\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\e8fd7392ae51d8cc0580ddd7785717e0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\Ben\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\e8fd7392ae51d8cc0580ddd7785717e0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\Ben\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\da34f353ae9cc98313a32081a6f635d2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\Ben\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\da34f353ae9cc98313a32081a6f635d2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\Ben\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\cb03804ba68d59f098d025e230cc1e40\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\Ben\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\cb03804ba68d59f098d025e230cc1e40\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\Ben\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\97c933509a721aee5f04167704c156e8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\Ben\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\97c933509a721aee5f04167704c156e8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\Ben\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\844ecce94a8ca9363993917f6c444a7e\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\Ben\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\844ecce94a8ca9363993917f6c444a7e\AndroidManifest.xml:20:5-22:41
+INJECTED from F:\AndroidDevelopment\MyCurrencyConvter\app\src\main\AndroidManifest.xml
+INJECTED from F:\AndroidDevelopment\MyCurrencyConvter\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from F:\AndroidDevelopment\MyCurrencyConvter\app\src\main\AndroidManifest.xml
+		ADDED from F:\AndroidDevelopment\MyCurrencyConvter\app\src\main\AndroidManifest.xml
+		INJECTED from F:\AndroidDevelopment\MyCurrencyConvter\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\AndroidDevelopment\MyCurrencyConvter\app\src\main\AndroidManifest.xml
+		ADDED from F:\AndroidDevelopment\MyCurrencyConvter\app\src\main\AndroidManifest.xml
+		INJECTED from F:\AndroidDevelopment\MyCurrencyConvter\app\src\main\AndroidManifest.xml
